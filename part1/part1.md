@@ -51,4 +51,6 @@
 
 17. 'How are you?' In the first comparison, true will be converted to 1, which is not equal to 2. In the second comparison, 2 will be converted to true since numbers other than 0 are true.
 
-19. [6, 8, 10]. Inside the loop, if array[i] == x, then we call doSomething on x, which add the element by 2. Inside function(x), we then multiply the element by 2. Then, we push the result, which is (x + 2) * 2, into the newArr.
+19 . [6, 8, 10]. Inside the loop, if array[i] == x, then we call doSomething on x, which add the element by 2. Inside function(x), we then multiply the element by 2. Then, we push the result, which is (x + 2) * 2, into the newArr.
+
+21 . 1 4 3 2
